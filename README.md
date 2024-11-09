@@ -25,7 +25,10 @@ solicitud realizada.
 4. Instala las dependencias:
     npm install
 
-5. Solcitar archivo .env para variables de entorno
+5. Configurar el archivo .env con los siguientes datos:
+   PORT=3000
+   JWT_SECRET=JWT_KEY_PRIXZ
+(Solo por la prueba ficticia se publican estos datos aqui, en un entorno real no se dejarian a la vista.)
 
 6. Ejecutar proyecto:
     npm start
