@@ -17,19 +17,17 @@ solicitud realizada.
 ## Instalación
 
 1. Clonar el repositorio:
-   ```bash
-   [git clone https://github.com/tu-repo/nodejs-api-prueba.git](https://github.com/Jair-SantanaF/prueba_tec_jairSantana_prixz.git)
-   cd nodejs-api-prueba
-
-2. Navega al directorio del proyecto:
+   https://github.com/Jair-SantanaF/prueba_tec_jairSantana_prixz.git
+   
+3. Navega al directorio del proyecto:
     cd prueba_tec_jairSantana_prixz
 
-3. Instala las dependencias:
+4. Instala las dependencias:
     npm install
 
-4. Solcitar archivo .env para variables de entorno
+5. Solcitar archivo .env para variables de entorno
 
-5. Ejecutar proyecto:
+6. Ejecutar proyecto:
     npm start
 
 ## Endpoints
